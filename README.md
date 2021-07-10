@@ -1,5 +1,5 @@
 # applepie keyboard
-![keyboard split and partially built]https://i.imgur.com/6CdAUfn.jpg
+![keyboard split and partially built](https://i.imgur.com/6CdAUfn.jpg)
 applepie is a 66 key split mechancial keyboard with RGB, OLED display and Bluetooth.  
 
 ## Respository contents:
@@ -16,9 +16,9 @@ applepie keyboard will be added to the [QMK]https://github.com/qmk/qmk_firmware 
 
 ## Product Versions:
 There are 3 hardware configs, all using the same PCB.
-1. base model [requires custom case that excludes OLED display cutout]
-2. RGB.  include RGB leds for each key and an OLED display
-3. BLE.  Includes RGB, OLED and Bluetooth Low Energy with a 4000mAh battery.
+1. **applepie** - base model [requires custom case that excludes OLED display cutout]
+2. **applepie-rgb** - include RGB leds for each key and an OLED display
+3. **appliepie-ble** - includes RGB, OLED and Bluetooth Low Energy with a 4000mAh battery.
 
 ## Supported Features:
 the be added soon
