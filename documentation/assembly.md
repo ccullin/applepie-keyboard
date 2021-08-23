@@ -17,5 +17,5 @@
     - vidually inspect each LED for full insertion
     - solder and trim all leads
 5. Flash and test.
-    - Flash keyboard halves and test. *note to flash left with dfu-split-left and right with dfu-split-right ont he first flash*
+    - Flash keyboard halves and test.   *note to flash left with dfu-split-left and right with dfu-split-right ont he first flash*
 6. enjoy.
